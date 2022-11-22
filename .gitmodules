@@ -1,0 +1,3 @@
+[submodule "teamup_backend"]
+	path = teamup_backend
+	url = git@github.com:Nagico/teamup_backend.git
