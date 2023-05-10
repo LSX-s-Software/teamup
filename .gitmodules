@@ -1,6 +1,6 @@
 [submodule "teamup_backend"]
 	path = teamup_backend
-	url = git@github.com:Nagico/teamup_backend.git
+	url = git@github.com:Nagico/teamup_backend-spring.git
 [submodule "teamup_iosapp"]
 	path = teamup_iosapp
 	url = git@github.com:LSX-s-Software/teamup_iosapp.git
